@@ -38,8 +38,8 @@ pub fn create_default_tic_tac_toe() -> TicTacToe {
     return game;
 }
 
-/// # FIELDS
-/// moves = states of all moves
+/// Create a TicTacToe game
+/// moves = states of all moves,
 /// remaining_moves = player's and ai's remaining moves
 /// screen = screen of the current state game
 #[derive(Debug)]
