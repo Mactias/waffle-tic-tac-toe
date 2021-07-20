@@ -1,0 +1,10 @@
+[package]
+name = "tic_tac_toe"
+version = "0.1.0"
+edition = "2021"
+authors = ["Maciej Dziurzyński <dziurzynski.maciej@outlook.com>"]
+description = "A classic tic tac toe game."
+license = "Apache-2.0"
+
+[dependencies]
+rand = "0.8.4"
